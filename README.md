@@ -7,3 +7,5 @@ Some commercial products already existing on the market, which seem cool to me a
 * [invideo](https://invideo.io/ai/) - With InVideo AI, you can turn any content or idea into video, instantly 🚀.
 
 * [OPUS AI](https://opus.ai/) - Text to Video generation using AI. Can create games which you can export to Unreal engine.
+
+* [Booth.ai](https://www.booth.ai/) - Create pro quality product photography with AI.
