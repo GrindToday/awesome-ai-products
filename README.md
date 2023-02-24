@@ -9,3 +9,5 @@ Some commercial products already existing on the market, which seem cool to me a
 * [OPUS AI](https://opus.ai/) - Text to Video generation using AI. Can create games which you can export to Unreal engine.
 
 * [Booth.ai](https://www.booth.ai/) - Create pro quality product photography with AI.
+
+* [Cleanup pictures](https://cleanup.pictures/) - Remove unwanted objects from photos, people, text, and defects from any picture.
