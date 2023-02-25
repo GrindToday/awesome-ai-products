@@ -11,3 +11,5 @@ Some commercial products already existing on the market, which seem cool to me a
 * [Booth.ai](https://www.booth.ai/) - Create pro quality product photography with AI.
 
 * [Cleanup pictures](https://cleanup.pictures/) - Remove unwanted objects from photos, people, text, and defects from any picture.
+
+* [resumeworded](www.resumeworded.com) - Online resume and Linkedln grader instantly scores your resume and Linkedln profile and gives you detailed feedback on how to get more opportunities and interviews.
