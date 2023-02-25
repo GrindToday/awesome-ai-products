@@ -15,3 +15,5 @@ Some commercial products already existing on the market, which seem cool to me a
 * [resumeworded](https://www.resumeworded.com) - Online resume and Linkedln grader instantly scores your resume and Linkedln profile and gives you detailed feedback on how to get more opportunities and interviews.
 
 * [soundraw](https://soundraw.io/) - Soundraw is a music generator for creators. Select the type of music you want genre, instruments, mood, length, etc and let Al generate beautiful songs for you.
+
+* [kaiber](https://www.kaiber.ai/) - Transform your ideas into the visual stories of your dreams with our state-of-the-art AI generation engine.
