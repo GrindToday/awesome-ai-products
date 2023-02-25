@@ -12,4 +12,6 @@ Some commercial products already existing on the market, which seem cool to me a
 
 * [Cleanup pictures](https://cleanup.pictures/) - Remove unwanted objects from photos, people, text, and defects from any picture.
 
-* [resumeworded](www.resumeworded.com) - Online resume and Linkedln grader instantly scores your resume and Linkedln profile and gives you detailed feedback on how to get more opportunities and interviews.
+* [resumeworded](https://www.resumeworded.com) - Online resume and Linkedln grader instantly scores your resume and Linkedln profile and gives you detailed feedback on how to get more opportunities and interviews.
+
+* [soundraw](https://soundraw.io/) - Soundraw is a music generator for creators. Select the type of music you want genre, instruments, mood, length, etc and let Al generate beautiful songs for you.
