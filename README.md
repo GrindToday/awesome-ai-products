@@ -29,3 +29,5 @@ Some commercial products already existing on the market, which seem cool to me a
 * [Jasper](https://www.jasper.ai/) - Let Jasper Write Your Marketing Copy For Free. Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more.
 
 * [literallyanything.io](https://www.literallyanything.io/) - A lightweight free tool which helps building things (websites, apps, documents, etc). 
+
+* [Dr. Gupta](https://www.drgupta.ai/) - Experimental online "doctor of medicine", giving possible health suggestions.
