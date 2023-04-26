@@ -19,3 +19,13 @@ Some commercial products already existing on the market, which seem cool to me a
 * [kaiber](https://www.kaiber.ai/) - Transform your ideas into the visual stories of your dreams with our state-of-the-art AI generation engine.
 
 * [copy.ai](https://www.copy.ai/) - "Get a great copy that sells". Copy.ai is an Al-powered copywriter that generates high-quality copy for your business.
+
+* [AgentGPT](https://agentgpt.reworkd.ai) - A tool to give a large language model (chatgpt) a particular task to work on.
+
+* [Ora.sh](https://ora.sh/) - Create custom chatbots and visuals in seconds. 
+
+* [Meetcody](https://www.meetcody.ai/) - Your AI-Assistant for Business.
+
+* [Jasper](https://www.jasper.ai/) - Let Jasper Write Your Marketing Copy For Free. Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more.
+
+* [literallyanything.io](https://www.literallyanything.io/) - A lightweight free tool which helps building things (websites, apps, documents, etc). 
