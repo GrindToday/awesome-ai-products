@@ -7,6 +7,9 @@ Some commercial products already existing on the market, which seem cool to me a
 
 * [invideo](https://invideo.io/ai/) - With InVideo AI, you can turn any content or idea into video, instantly 🚀.
 * [GrokVideo Studio](https://grokvideogenerator.dev/) - Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 
 * [OPUS AI](https://opus.ai/) - Text to Video generation using AI. Can create games which you can export to Unreal engine.
 
