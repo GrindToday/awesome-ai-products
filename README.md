@@ -3,12 +3,15 @@
 Some commercial products already existing on the market, which seem cool to me and may improve productivity: 
 
 * [Galileo AI](https://www.usegalileo.ai/) - Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever.
+* [TeslaWraps](https://teslawraps.design/) - Browser Tesla Paint Shop wrap designer with 3D preview and PNG export; core editing free without an account.
 
 * [invideo](https://invideo.io/ai/) - With InVideo AI, you can turn any content or idea into video, instantly 🚀.
+* [GrokVideo Studio](https://grokvideogenerator.dev/) - Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits.
 
 * [OPUS AI](https://opus.ai/) - Text to Video generation using AI. Can create games which you can export to Unreal engine.
 
 * [Booth.ai](https://www.booth.ai/) - Create pro quality product photography with AI.
+* [PromptImage](https://promptimage.cloud/) - Free AI image & video studio with a prompt library; signup credits, no card required.
 
 * [Cleanup pictures](https://cleanup.pictures/) - Remove unwanted objects from photos, people, text, and defects from any picture.
 
