@@ -16,7 +16,7 @@ Some commercial products already existing on the market, which seem cool to me a
 
 * [OPUS AI](https://opus.ai/) - Text to Video generation using AI. Can create games which you can export to Unreal engine.
 
-* [Booth.ai](https://www.booth.ai/) - Create pro quality product photography with AI.
+* [Caspa AI](https://www.caspa.ai/) - Create product photos and videos with AI.
 * [PromptImage](https://promptimage.cloud/) - Free AI image & video studio with a prompt library; signup credits, no card required.
 
 * [Cleanup pictures](https://cleanup.pictures/) - Remove unwanted objects from photos, people, text, and defects from any picture.
